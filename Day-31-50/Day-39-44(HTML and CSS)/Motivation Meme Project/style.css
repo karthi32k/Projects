@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: black;
 }
@@ -26,4 +27,34 @@ h1{
 
 p{
     font-size:x-large;
+=======
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    font-family: 'Orbitron', sans-serif;
+    font-size:3rem;
+   
+    }
+
+.poster{
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    color:white;
+    text-align:center
+
+}
+
+.motivation-img{
+    border:5px solid white;
+    width: 100%;
+
+}
+
+p{
+    font-size:x-large;
+>>>>>>> 54efe6e67173470a814e51c6d84ea55a45fb80e5
 }
